@@ -3,10 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-Object-Detection.iml" filepath="$PROJECT_DIR$/Android-Object-Detection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Android-Object-Detection.iml" filepath="$PROJECT_DIR$/Android-Object-Detection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Android-Object-Detection.iml" filepath="$PROJECT_DIR$/Android-Object-Detection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cnnlibs/cnnlibs.iml" filepath="$PROJECT_DIR$/cnnlibs/cnnlibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-Android-Object-Detection.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-Android-Object-Detection.iml" group="Android-Object-Detection" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Android-Object-Detection/app" />
+      <module fileurl="file://$PROJECT_DIR$/cnnlibs/cnnlibs.iml" filepath="$PROJECT_DIR$/cnnlibs/cnnlibs.iml" group="Android-Object-Detection/cnnlibs" />
     </modules>
   </component>
 </project>
